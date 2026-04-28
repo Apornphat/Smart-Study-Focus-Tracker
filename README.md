@@ -76,17 +76,17 @@ o	Three.js → 3D
 ________________________________________
 🧩 System Architecture                                                                                                  
 [ Sensors (LDR / PIR / Sound) ]                                                                                            
-                ↓                                                                                                           
+                     ↓                                                                                                           
           [ ESP32 ]                                                                                                         
    (Edge AI + Local Processing)                                                                                             
-                ↓                                                                                                           
+                     ↓                                                                                                           
         HTTP POST (JSON)                                                                                                    
-                ↓                                                                                                           
+                     ↓                                                                                                           
 [ Google Apps Script (Cloud) ]                                                                                              
      + AI (Llama 3.1 Analysis)                                                                                              
-                ↓                                                                                                           
+                     ↓                                                                                                           
         Google Sheets (DB)                                                                                                  
-                ↓                                                                                                           
+                     ↓                                                                                                           
       Web Dashboard (Real-time)                                                                                             
 ________________________________________
 ⚙️ Edge Intelligence (Focus Score Logic)                                                                                   
