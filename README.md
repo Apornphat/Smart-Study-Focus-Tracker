@@ -50,8 +50,7 @@ Score น้อยกว่า 70: สถานะ "Alarm_on" - LED เริ่
 Manual Lockdown: สั่งงานจาก Dashboard เพื่อให้บอร์ดส่งเสียง Siren และไฟกะพริบทันที (Manual Override)
 
 
-study-focus-tracker/
-├── SmartStudyFocusTracker.ino   # ESP32 Firmware (Sensing + Edge AI + WebServer)
-├── Code.gs                      # Google Apps Script (Cloud Backend + AI Logic)
-├── index.html                   # Web Dashboard (Analytics + 3D Twin + Remote Control)
-└── README.md                    # Project Documentation
+SmartStudyFocusTracker.ino   # ESP32 Firmware (Sensing + Edge AI + WebServer)
+Code.gs                      # Google Apps Script (Cloud Backend + AI Logic)
+index.html                   # Web Dashboard (Analytics + 3D Twin + Remote Control)
+README.md                    # Project Documentation
