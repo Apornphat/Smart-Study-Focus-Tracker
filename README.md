@@ -24,8 +24,7 @@ Breadboard และ Jumper Wires
 Resistor (220 ohm)
 
 
-การตั้งค่า (Setup)
-1. Cloud Services (Google Apps Script)
+การตั้งค่า (Setup)1. Cloud Services (Google Apps Script)
 สร้าง Google Sheets ใหม่
 ไปที่เมนู Extensions และเลือก Apps Script แล้วนำโค้ดในไฟล์ Code.gs ไปวาง
 ใส่ GROQ_API_KEY ในโค้ด
