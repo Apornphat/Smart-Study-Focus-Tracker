@@ -1,26 +1,26 @@
-📘 Smart Study Focus Tracker
-🚀 ระบบ IoT อัจฉริยะสำหรับวิเคราะห์สมาธิและสภาพแวดล้อมการเรียนแบบ Real-time
+📘 Smart Study Focus Tracker                                                                                               
+🚀 ระบบ IoT อัจฉริยะสำหรับวิเคราะห์สมาธิและสภาพแวดล้อมการเรียนแบบ Real-time                                                        
 ________________________________________
-🧠 Overview
+🧠 Overview                                                                                                                
 Smart Study Focus Tracker คือระบบ IoT + Edge AI + Cloud AI ที่ถูกออกแบบมาเพื่อยกระดับประสิทธิภาพการเรียนรู้ โดยการตรวจจับและวิเคราะห์สภาพแวดล้อมรอบตัวผู้ใช้งานแบบเรียลไทม์
 ระบบใช้แนวคิด Environmental Intelligence ในการประเมินปัจจัยที่มีผลต่อสมาธิ เช่น แสง การเคลื่อนไหว และเสียงรบกวน ผ่านเซนเซอร์หลายชนิดบนบอร์ด ESP32 จากนั้นจะทำการคำนวณ Focus Score (0–100) พร้อมส่งข้อมูลไปยัง Cloud เพื่อวิเคราะห์เชิงลึกด้วย AI และแสดงผลผ่าน Web Dashboard
 ________________________________________
-✨ Features
-🔍 Intelligent Monitoring
-•	ตรวจวัดสภาพแวดล้อมแบบ Real-time ด้วย Multi-Sensor 
-o	🌞 แสง (LDR) 
-o	🚶 การเคลื่อนไหว (PIR) 
-o	🔊 เสียงรบกวน (Sound Sensor) 
+✨ Features                                                                                                                
+🔍 Intelligent Monitoring                                                                                                  
+•	ตรวจวัดสภาพแวดล้อมแบบ Real-time ด้วย Multi-Sensor                                                                          
+o	🌞 แสง (LDR)                                                                                                             
+o	🚶 การเคลื่อนไหว (PIR)                                                                                                     
+o	🔊 เสียงรบกวน (Sound Sensor)                                                                                              
 ________________________________________
-⚡ Edge AI (On-device Intelligence)
-•	คำนวณ Focus Score (0–100) บน ESP32 ทันที 
-•	ไม่ต้องรอ Cloud → ตอบสนองรวดเร็ว 
-•	เหมาะกับงาน Real-time IoT 
+⚡ Edge AI (On-device Intelligence)                                                                                        
+•	คำนวณ Focus Score (0–100) บน ESP32 ทันที                                                                                  
+•	ไม่ต้องรอ Cloud → ตอบสนองรวดเร็ว                                                                                             
+•	เหมาะกับงาน Real-time IoT                                                                                                  
 ________________________________________
-🤖 Cloud AI (Generative AI)
-•	ใช้ Llama 3.1 (ผ่าน GROQ API) 
-•	วิเคราะห์ “เหตุผล” ของสภาพแวดล้อมเป็นภาษาไทย 
-•	ให้ Insight แบบเข้าใจง่าย 
+🤖 Cloud AI (Generative AI)                                                                                                
+•	ใช้ Llama 3.1 (ผ่าน GROQ API)                                                                                              
+•	วิเคราะห์ “เหตุผล” ของสภาพแวดล้อมเป็นภาษาไทย                                                                                  
+•	ให้ Insight แบบเข้าใจง่าย                                                                                                    
 ________________________________________
 ☁️ Real-time Cloud Sync
 •	ส่งข้อมูลขึ้น Google Sheets ทุก 15 วินาที 
