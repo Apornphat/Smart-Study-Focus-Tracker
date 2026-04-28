@@ -24,7 +24,8 @@ Breadboard และ Jumper Wires
 Resistor (220 ohm)
 
 
-การตั้งค่า (Setup)1. Cloud Services (Google Apps Script)
+การตั้งค่า (Setup)
+1. Cloud Services (Google Apps Script)
 สร้าง Google Sheets ใหม่
 ไปที่เมนู Extensions และเลือก Apps Script แล้วนำโค้ดในไฟล์ Code.gs ไปวาง
 ใส่ GROQ_API_KEY ในโค้ด
@@ -47,3 +48,5 @@ Logic การแจ้งเตือน:
 Score 70-100: สถานะ "Focused" - สภาพแวดล้อมเหมาะสมสำหรับการเรียน
 Score น้อยกว่า 70: สถานะ "Alarm_on" - LED เริ่มกะพริบแจ้งเตือน และป๊อปอัพแสดงผลบน Dashboard
 Manual Lockdown: สั่งงานจาก Dashboard เพื่อให้บอร์ดส่งเสียง Siren และไฟกะพริบทันที (Manual Override)
+
+
