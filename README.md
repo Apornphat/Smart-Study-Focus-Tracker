@@ -3,13 +3,13 @@ Smart Study Focus Tracker
 
 
 Features
-Multi-sensor monitoring: ติดตามค่าความเข้มแสง (LDR), การเคลื่อนไหว (PIR) และระดับเสียงรบกวน (Sound Sensor)
-Edge AI Analytics: คำนวณคะแนนสมาธิ (Focus Score) 0-100 ทันทีบนบอร์ด ESP32 เพื่อการตอบสนองที่รวดเร็ว
+Multi-sensor monitoring: ติดตามค่าความเข้มแสง (LDR), การเคลื่อนไหว (PIR) และระดับเสียงรบกวน (Sound Sensor)                   
+Edge AI Analytics: คำนวณคะแนนสมาธิ (Focus Score) 0-100 ทันทีบนบอร์ด ESP32 เพื่อการตอบสนองที่รวดเร็ว                          
 Generative AI Integration: เชื่อมต่อ Llama 3.1 AI เพื่อวิเคราะห์เหตุผลเชิงลึกของสภาพแวดล้อมในรูปแบบภาษาไทย
-Real-time Cloud Sync: ส่งข้อมูลขึ้น Google Sheets ทุก 15 วินาที เพื่อบันทึกประวัติและแสดงผลย้อนหลัง
-Web Analytics Dashboard: หน้าจอแสดงผลกราฟสมาธิย้อนหลัง, KPI สถานะปัจจุบัน และประวัติเหตุผลจาก AI
-3D Digital Twin: แสดงผลจำลองสภาพแวดล้อมแบบ 3 มิติผ่าน Three.js บนหน้าจอ Dashboard
-Human Value (Manual Override): ระบบควบคุมระยะไกล สามารถสั่งเปิด/ปิด LOCKDOWN ALARM (Buzzer Siren + LED) ได้จากหน้า Dashboard
+Real-time Cloud Sync: ส่งข้อมูลขึ้น Google Sheets ทุก 15 วินาที เพื่อบันทึกประวัติและแสดงผลย้อนหลัง                                
+Web Analytics Dashboard: หน้าจอแสดงผลกราฟสมาธิย้อนหลัง, KPI สถานะปัจจุบัน และประวัติเหตุผลจาก AI                              
+3D Digital Twin: แสดงผลจำลองสภาพแวดล้อมแบบ 3 มิติผ่าน Three.js บนหน้าจอ Dashboard                                       
+Human Value (Manual Override): ระบบควบคุมระยะไกล สามารถสั่งเปิด/ปิด LOCKDOWN ALARM (Buzzer Siren + LED) ได้จากหน้า Dashboard 
 Interactive Popup: ป๊อปอัพแจ้งเตือนบนหน้าจอที่จะค้างไว้จนกว่าผู้ใช้จะกด "ตกลง" เพื่อดึงสมาธิกลับมาสู่การเรียน
 
 
