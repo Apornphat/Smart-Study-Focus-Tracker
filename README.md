@@ -143,11 +143,11 @@ ________________________________________
 •	ปรับสภาพแวดล้อมตามคำแนะนำ 
 ________________________________________
 📂 Project Structure                                                                                                       
-Smart-Study-Focus-Tracker/
-│
-├── SmartStudyFocusTracker.ino   # ESP32 Firmware
-├── Code.gs                      # Cloud Backend + AI
-├── index.html                   # Web Dashboard
+Smart-Study-Focus-Tracker/                                                                                                  
+│                                                                                                                           
+├── SmartStudyFocusTracker.ino   # ESP32 Firmware                                                                           
+├── Code.gs                      # Cloud Backend + AI                                                                       
+├── index.html                   # Web Dashboard                                                                            
 └── README.md
 ________________________________________
 💡 จุดเด่นของโปรเจกต์นี้                                                                                                         
