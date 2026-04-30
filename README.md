@@ -164,8 +164,11 @@ ________________________________________
 •	☁️ User Authentication 
 ________________________________________
 👨‍💻 Author                                                                                                                  
-•	Apornphat                                                                                                                 
-•	ทีม CS423 – Internet of Things and Applications                                                                           
+•	Apornphat
+•	Kanyanat
+•	Jatuporn
+•	Kasira
+•	ทีม CS423 – How To Use AI                                                                          
 ________________________________________
 🏫 Academic Context                                                                                                        
 โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชา                                                                                                  
